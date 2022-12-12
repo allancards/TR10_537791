@@ -3,4 +3,7 @@
 > Status : concluido
 
 ### Funcionalidades do Código: 
-+ aksdasd
++ armazena numeros inteiros de 0 a 5000
++  manipular bit's com o operador de bitwise
+
+> necessita do GCC para execução do código
