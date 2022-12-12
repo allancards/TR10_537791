@@ -1,4 +1,4 @@
-<h1>Vetores de Bit's</h1>
+<h1>Vetores de armazenamento de Bit's</h1>
 
 > Status : concluido
 
