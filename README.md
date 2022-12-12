@@ -9,4 +9,4 @@
 > necessita do GCC para execução do código
 
 ### Para baixar 
-+ 
++ https://github.com/allancards/TR10_537791.git
