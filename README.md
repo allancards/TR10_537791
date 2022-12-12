@@ -7,3 +7,6 @@
 +  manipular bit's com o operador de bitwise
 
 > necessita do GCC para execução do código
+
+### Para baixar 
++ 
