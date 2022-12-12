@@ -8,5 +8,11 @@
 
 > necessita do GCC para execução do código
 
-### Para baixar 
+# Para baixar 
 + https://github.com/allancards/TR10_537791.git
+
+# Gerando executável
++ gcc TR3_537791.c -o TR3_537791
+
+# Execução
++ ./TR3_537791 
