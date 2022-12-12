@@ -2,7 +2,7 @@
 
 > Status : concluido
 
-### Funcionalidades do Código: 
+# Funcionalidades do Código: 
 + armazena numeros inteiros de 0 a 5000
 +  manipular bit's com o operador de bitwise
 
