@@ -12,7 +12,9 @@
 + https://github.com/allancards/TR10_537791.git
 
 # Gerando executável
++ no terminal, adicione os comandos abaixo:
 + gcc TR3_537791.c -o TR3_537791
 
 # Execução
++ no terminal coloque esse comando:
 + ./TR3_537791 
